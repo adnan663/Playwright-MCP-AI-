@@ -1,0 +1,911 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5] [cursor=pointer]
+        - link "store logo" [ref=e6] [cursor=pointer]:
+          - /url: https://www.spoiledchild.com/
+        - generic [ref=e8] [cursor=pointer]
+        - generic [ref=e9]:
+          - navigation [ref=e11]:
+            - list [ref=e12]:
+              - listitem [ref=e13]:
+                - link "Hair" [ref=e14] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair
+              - listitem [ref=e15]:
+                - link "Skin" [ref=e16] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin
+              - listitem [ref=e17]:
+                - link "Wellness" [ref=e18] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/shop-all
+          - navigation [ref=e20]:
+            - list [ref=e21]:
+              - listitem [ref=e22]:
+                - link " Ask SpoiledBrain" [ref=e23] [cursor=pointer]:
+                  - /url: /spoiled-brain?type=sc-mixed&v=sb1&fnl=ty&version=1
+        - link "" [ref=e25] [cursor=pointer]:
+          - /url: https://www.spoiledchild.com/customer/account/login/
+        - generic [ref=e26]:
+          - link "My Cart" [ref=e27] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - text:  ‒
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31] [cursor=pointer]
+        - link:
+          - /url: https://www.spoiledchild.com/
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]: Not sure what you need?
+            - generic [ref=e36]: Let SpoiledBrain find yourperfect hair and skin products.
+          - generic [ref=e37]: 
+        - link "Ask SpoiledBrain" [ref=e39] [cursor=pointer]:
+          - /url: /spoiled-brain?type=sc-mixed&v=sb1&fnl=ty&version=1
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - link "Shop E27 Magic Collagen" [ref=e42] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen/
+          - img "Shop E27 Magic Collagen" [ref=e43]
+        - generic [ref=e44]:
+          - link "Shop N29 Magnesium Liquid" [ref=e45] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/n29-daily-stress-relief-magnesium-liquid/
+          - img "Shop N29 Magnesium Liquid" [ref=e46]
+        - generic [ref=e47]:
+          - link "Shop Hair" [ref=e48] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/hair
+          - generic [ref=e49]:
+            - link [ref=e50] [cursor=pointer]:
+              - /url: https://www.spoiledchild.com/hair
+            - img "Hair" [ref=e51]
+        - generic [ref=e52]:
+          - link "Shop Skin" [ref=e53] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/skin
+          - generic [ref=e54]:
+            - link [ref=e55] [cursor=pointer]:
+              - /url: https://www.spoiledchild.com/skin
+            - img "Skin" [ref=e56]
+        - generic [ref=e57]:
+          - link "Shop All" [ref=e58] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/shop-all/
+          - img "Skin" [ref=e59]
+      - navigation [ref=e60]:
+        - list [ref=e61]:
+          - listitem [ref=e62]:
+            - link "The Guide" [ref=e63] [cursor=pointer]:
+              - /url: /the-guide?loc=hamburger
+          - listitem [ref=e64]:
+            - link "Shop Lifestyle" [ref=e65] [cursor=pointer]:
+              - /url: https://www.spoiledchild.com/lifestyle
+      - list [ref=e66]:
+        - listitem [ref=e67]:
+          - generic [ref=e68]:
+            - text: Shop by Hair Concern
+            - generic [ref=e69] [cursor=pointer]
+        - listitem [ref=e70]:
+          - generic [ref=e71]:
+            - text: Shop by Skin Concern
+            - generic [ref=e72] [cursor=pointer]
+        - listitem [ref=e73]:
+          - link "Sign In to My Account" [ref=e74] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/ordergroove/subscription/index/
+        - listitem [ref=e75]:
+          - generic [ref=e76]:
+            - text: Get Help
+            - generic [ref=e77] [cursor=pointer]
+    - generic [ref=e78]:
+      - generic [ref=e79] [cursor=pointer]
+      - combobox "Search for products, categories, skin & hair concerns, content" [ref=e83]
+      - generic [ref=e84]:
+        - paragraph [ref=e85]: Popular Searches
+        - generic [ref=e86]:
+          - generic [ref=e87] [cursor=pointer]: Anti-Aging
+          - generic [ref=e89] [cursor=pointer]: Hair Loss
+          - generic [ref=e91] [cursor=pointer]: Collagen
+          - generic [ref=e93] [cursor=pointer]: Wrinkles
+          - generic [ref=e95] [cursor=pointer]: Hair Growth
+          - generic [ref=e97] [cursor=pointer]: Damaged Hair
+          - generic [ref=e99] [cursor=pointer]: Brittle Nails
+      - generic [ref=e101]:
+        - text: 
+        - heading "Find exactly what you need" [level=4] [ref=e102]
+        - generic [ref=e103]: SpoiledBrain will identify the exact products for you based on your needs.
+        - link "Just Ask SpoiledBrain" [ref=e104] [cursor=pointer]:
+          - /url: /spoiled-brain?type=sc-mixed&v=sb1&fnl=ty&version=1
+      - generic [ref=e106]:
+        - paragraph [ref=e107]: Popular Products
+        - generic [ref=e108]:
+          - link [ref=e110] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+            - img "E27 Extra Strength Liquid Collagen" [ref=e112]
+            - paragraph [ref=e116]: E27 Extra Strength Liquid Collagen
+          - link [ref=e118] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+            - img "E27 Extra Strength Liquid Collagen" [ref=e120]
+            - paragraph [ref=e124]: E27 Extra Strength Liquid Collagen
+          - link [ref=e126] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/a22-biotin-boost-hair-scalp-serum
+            - img "A22 Biotin Boost Hair + Scalp Serum" [ref=e128]
+            - paragraph [ref=e132]: A22 Biotin Boost Hair + Scalp Serum
+          - link [ref=e134] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/v30-max-effective-multivitamin-liquid
+            - img "V30 Max Effective Multivitamin Liquid" [ref=e136]
+            - paragraph [ref=e140]: V30 Max Effective Multivitamin Liquid
+          - link [ref=e142] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/n29-daily-stress-relief-magnesium-liquid
+            - img "N29 Daily Stress Relief Magnesium Liquid" [ref=e144]
+            - paragraph [ref=e148]: N29 Daily Stress Relief Magnesium Liquid
+          - link [ref=e150] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+            - img "M28 MicroSculpt Firming & Plumping Cream" [ref=e152]
+            - paragraph [ref=e156]: M28 MicroSculpt Firming & Plumping Cream
+          - link [ref=e158] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/t31-vitamin-c-brightening-eye-cream
+            - img "T31 Vitamin C Brightening Eye Cream" [ref=e160]
+            - paragraph [ref=e164]: T31 Vitamin C Brightening Eye Cream
+          - link [ref=e166] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/skin/s33-anti-aging-collagen-burst-serum
+            - img "S33+ Anti-Aging Collagen Burst Serum" [ref=e168]
+            - paragraph [ref=e172]: S33+ Anti-Aging Collagen Burst Serum
+    - main [ref=e173]:
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - heading "Skin" [level=1] [ref=e178]
+            - heading "LET’S CORRECT THE CONCEPT OF AGE" [level=2] [ref=e179]
+          - generic [ref=e180]:
+            - text: 
+            - heading "Get exactly what you need" [level=4] [ref=e181]
+            - generic [ref=e182]: Let SpoiledBrain determine the exact products for you, personalized for your needs.
+            - link "Just ask SpoiledBrain" [ref=e183] [cursor=pointer]:
+              - /url: /spoiled-brain?type=sc-skin_anti-aging&v=sb1&fnl=ty&version=1&hr=32301020101000130BC
+        - generic [ref=e184]:
+          - heading "BEST SELLERS" [level=3] [ref=e185]
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - generic [ref=e189]:
+                - link [ref=e191] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+                  - img "E27 Extra Strength Liquid Collagen" [ref=e192]
+                - generic [ref=e194]:
+                  - generic [ref=e195]:
+                    - text: 
+                    - generic [ref=e196]: Mango Flavor
+                  - strong [ref=e197]:
+                    - link "E27 Extra Strength Liquid Collagen" [ref=e198] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+                  - generic [ref=e199]: Collagen Peptides + Vitamin C + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+                - button "Add to bag $49" [ref=e203] [cursor=pointer]:
+                  - generic [ref=e204]:
+                    - text: Add to bag
+                    - generic [ref=e205]: $49
+            - listitem [ref=e207]:
+              - generic [ref=e208]:
+                - link [ref=e210] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+                  - img "E27 Extra Strength Liquid Collagen" [ref=e211]
+                - generic [ref=e213]:
+                  - generic [ref=e214]:
+                    - text: 
+                    - generic [ref=e215]: Pineapple Flavor
+                  - strong [ref=e216]:
+                    - link "E27 Extra Strength Liquid Collagen" [ref=e217] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+                  - generic [ref=e218]: Collagen Peptides + Vitamin C + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+                - button "Add to bag $49" [ref=e222] [cursor=pointer]:
+                  - generic [ref=e223]:
+                    - text: Add to bag
+                    - generic [ref=e224]: $49
+            - listitem [ref=e226]:
+              - generic [ref=e227]:
+                - link [ref=e229] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+                  - img "M28 MicroSculpt Firming & Plumping Cream" [ref=e230]
+                - generic [ref=e232]:
+                  - strong [ref=e233]:
+                    - link "M28 MicroSculpt Firming & Plumping Cream" [ref=e234] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+                  - generic [ref=e235]: ODDL1204™ + Hyaluronic Acid + Trehalose
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+                - button "Add to bag $59" [ref=e239] [cursor=pointer]:
+                  - generic [ref=e240]:
+                    - text: Add to bag
+                    - generic [ref=e241]: $59
+        - generic [ref=e243]:
+          - heading "Anti-Aging Eye Creams" [level=3] [ref=e244]
+          - list [ref=e246]:
+            - listitem [ref=e247]:
+              - generic [ref=e248]:
+                - link [ref=e250] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/t31-vitamin-c-brightening-eye-cream
+                  - img "T31 Vitamin C Brightening Eye Cream" [ref=e251]
+                - generic [ref=e253]:
+                  - strong [ref=e254]:
+                    - link "T31 Vitamin C Brightening Eye Cream" [ref=e255] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/t31-vitamin-c-brightening-eye-cream
+                  - generic [ref=e256]: Vitamin C + Peptides + Caffeine
+                  - link:
+                    - /url: https://www.spoiledchild.com/t31-vitamin-c-brightening-eye-cream
+                - button "Add to bag $58" [ref=e260] [cursor=pointer]:
+                  - generic [ref=e261]:
+                    - text: Add to bag
+                    - generic [ref=e262]: $58
+            - listitem [ref=e264]:
+              - generic [ref=e265]:
+                - link [ref=e267] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/h30-fibroquin-advanced-firming-eye-cream
+                  - img "H30 Fibroquin™ Advanced Firming Eye Cream" [ref=e268]
+                - generic [ref=e270]:
+                  - strong [ref=e271]:
+                    - link "H30 Fibroquin™ Advanced Firming Eye Cream" [ref=e272] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/h30-fibroquin-advanced-firming-eye-cream
+                  - generic [ref=e273]: Fibroquin™ + Retinoid + Peptides
+                  - link:
+                    - /url: https://www.spoiledchild.com/h30-fibroquin-advanced-firming-eye-cream
+                - button "Add to bag $58" [ref=e277] [cursor=pointer]:
+                  - generic [ref=e278]:
+                    - text: Add to bag
+                    - generic [ref=e279]: $58
+        - generic [ref=e281]:
+          - heading "Anti-Aging Serums" [level=3] [ref=e282]
+          - list [ref=e284]:
+            - listitem [ref=e285]:
+              - generic [ref=e286]:
+                - link [ref=e288] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+                  - img "M28 MicroSculpt Firming & Plumping Cream" [ref=e289]
+                - generic [ref=e291]:
+                  - strong [ref=e292]:
+                    - link "M28 MicroSculpt Firming & Plumping Cream" [ref=e293] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+                  - generic [ref=e294]: ODDL1204™ + Hyaluronic Acid + Trehalose
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/m28-microsculpt-firming-plumping-cream
+                - button "Add to bag $59" [ref=e298] [cursor=pointer]:
+                  - generic [ref=e299]:
+                    - text: Add to bag
+                    - generic [ref=e300]: $59
+            - listitem [ref=e302]:
+              - generic [ref=e303]:
+                - link [ref=e305] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/s33-anti-aging-collagen-burst-serum
+                  - img "S33+ Anti-Aging Collagen Burst Serum" [ref=e306]
+                - generic [ref=e308]:
+                  - strong [ref=e309]:
+                    - link "S33+ Anti-Aging Collagen Burst Serum" [ref=e310] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/s33-anti-aging-collagen-burst-serum
+                  - generic [ref=e311]: Peptides + Hyaluronic Acid + Lily Cell Extract
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/s33-anti-aging-collagen-burst-serum
+                - button "Add to bag $59" [ref=e315] [cursor=pointer]:
+                  - generic [ref=e316]:
+                    - text: Add to bag
+                    - generic [ref=e317]: $59
+            - listitem [ref=e319]:
+              - generic [ref=e320]:
+                - link [ref=e322] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/m27-anti-aging-glycolic-renewing-serum
+                  - img "M27 Anti-Aging Glycolic Renewing Serum" [ref=e323]
+                - generic [ref=e325]:
+                  - strong [ref=e326]:
+                    - link "M27 Anti-Aging Glycolic Renewing Serum" [ref=e327] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/m27-anti-aging-glycolic-renewing-serum
+                  - generic [ref=e328]: AHA + BHA + Vitamin B5 + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/m27-anti-aging-glycolic-renewing-serum
+                - button "Add to bag $59" [ref=e332] [cursor=pointer]:
+                  - generic [ref=e333]:
+                    - text: Add to bag
+                    - generic [ref=e334]: $59
+            - listitem [ref=e336]:
+              - generic [ref=e337]:
+                - link [ref=e339] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/g25-anti-aging-retin-night-rewind-serum
+                  - img "G25+ Anti-Aging Retin + Night Rewind Serum" [ref=e340]
+                - generic [ref=e342]:
+                  - strong [ref=e343]:
+                    - link "G25+ Anti-Aging Retin + Night Rewind Serum" [ref=e344] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/g25-anti-aging-retin-night-rewind-serum
+                  - generic [ref=e345]: Retinol + Bakuchiol + Squalane + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/g25-anti-aging-retin-night-rewind-serum
+                - button "Add to bag $59" [ref=e349] [cursor=pointer]:
+                  - generic [ref=e350]:
+                    - text: Add to bag
+                    - generic [ref=e351]: $59
+            - listitem [ref=e353]:
+              - generic [ref=e354]:
+                - link [ref=e356] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/k27-anti-aging-vitamin-c-boosting-serum
+                  - img "K27 Anti-Aging Vitamin C Boosting Serum" [ref=e357]
+                - generic [ref=e359]:
+                  - strong [ref=e360]:
+                    - link "K27 Anti-Aging Vitamin C Boosting Serum" [ref=e361] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/k27-anti-aging-vitamin-c-boosting-serum
+                  - generic [ref=e362]: Niacinamide + Vitamin C + Bionymph Peptides
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/k27-anti-aging-vitamin-c-boosting-serum
+                - button "Add to bag $58" [ref=e366] [cursor=pointer]:
+                  - generic [ref=e367]:
+                    - text: Add to bag
+                    - generic [ref=e368]: $58
+            - listitem [ref=e370]:
+              - generic [ref=e371]:
+                - link [ref=e373] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                  - img "S34 Clarifying Prebiotic Treatment" [ref=e374]
+                - generic [ref=e376]:
+                  - strong [ref=e377]:
+                    - link "S34 Clarifying Prebiotic Treatment" [ref=e378] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                  - generic [ref=e379]: Prebiotics + Ceramides + Squalane
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                - button "Add to bag $58" [ref=e383] [cursor=pointer]:
+                  - generic [ref=e384]:
+                    - text: Add to bag
+                    - generic [ref=e385]: $58
+            - listitem [ref=e387]:
+              - generic [ref=e388]:
+                - link [ref=e390] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/a35-anti-aging-glycolic-renewing-serum
+                  - img "A35 Anti-Aging Glycolic Renewing Serum" [ref=e391]
+                - generic [ref=e393]:
+                  - strong [ref=e394]:
+                    - link "A35 Anti-Aging Glycolic Renewing Serum" [ref=e395] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/a35-anti-aging-glycolic-renewing-serum
+                  - generic [ref=e396]: AHA + BHA + Vitamin B5 + Hyaluronic Acid
+                  - generic [ref=e397]: Fragrance Free
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/a35-anti-aging-glycolic-renewing-serum
+                - button "Add to bag $59" [ref=e401] [cursor=pointer]:
+                  - generic [ref=e402]:
+                    - text: Add to bag
+                    - generic [ref=e403]: $59
+            - listitem [ref=e405]:
+              - generic [ref=e406]:
+                - link [ref=e408] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/f38-anti-aging-retin-night-rewind-serum
+                  - img "F38+ Anti-Aging Retin + Night Rewind Serum" [ref=e409]
+                - generic [ref=e411]:
+                  - strong [ref=e412]:
+                    - link "F38+ Anti-Aging Retin + Night Rewind Serum" [ref=e413] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/f38-anti-aging-retin-night-rewind-serum
+                  - generic [ref=e414]: Retinol + Bakuchiol + Squalane + Hyaluronic Acid
+                  - generic [ref=e415]: Fragrance Free
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/f38-anti-aging-retin-night-rewind-serum
+                - button "Add to bag $69" [ref=e419] [cursor=pointer]:
+                  - generic [ref=e420]:
+                    - text: Add to bag
+                    - generic [ref=e421]: $69
+        - generic [ref=e423]:
+          - heading "Collagen" [level=3] [ref=e424]
+          - list [ref=e426]:
+            - listitem [ref=e427]:
+              - generic [ref=e428]:
+                - link [ref=e430] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+                  - img "E27 Extra Strength Liquid Collagen" [ref=e431]
+                - generic [ref=e433]:
+                  - generic [ref=e434]:
+                    - text: 
+                    - generic [ref=e435]: Pineapple Flavor
+                  - strong [ref=e436]:
+                    - link "E27 Extra Strength Liquid Collagen" [ref=e437] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+                  - generic [ref=e438]: Collagen Peptides + Vitamin C + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+                - button "Add to bag $49" [ref=e442] [cursor=pointer]:
+                  - generic [ref=e443]:
+                    - text: Add to bag
+                    - generic [ref=e444]: $49
+            - listitem [ref=e446]:
+              - generic [ref=e447]:
+                - link [ref=e449] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+                  - img "E27 Extra Strength Liquid Collagen" [ref=e450]
+                - generic [ref=e452]:
+                  - generic [ref=e453]:
+                    - text: 
+                    - generic [ref=e454]: Mango Flavor
+                  - strong [ref=e455]:
+                    - link "E27 Extra Strength Liquid Collagen" [ref=e456] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+                  - generic [ref=e457]: Collagen Peptides + Vitamin C + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+                - button "Add to bag $49" [ref=e461] [cursor=pointer]:
+                  - generic [ref=e462]:
+                    - text: Add to bag
+                    - generic [ref=e463]: $49
+            - listitem [ref=e465]:
+              - generic [ref=e466]:
+                - link [ref=e468] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/s25-extra-strength-collagen-peptides
+                  - img "S25 Extra Strength Collagen Peptides" [ref=e469]
+                - generic [ref=e471]:
+                  - strong [ref=e472]:
+                    - link "S25 Extra Strength Collagen Peptides" [ref=e473] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/s25-extra-strength-collagen-peptides
+                  - generic [ref=e474]: Collagen Peptides + Vitamin C + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/s25-extra-strength-collagen-peptides
+                - button "Add to bag $44" [ref=e478] [cursor=pointer]:
+                  - generic [ref=e479]:
+                    - text: Add to bag
+                    - generic [ref=e480]: $44
+            - listitem [ref=e482]:
+              - generic [ref=e483]:
+                - link [ref=e485] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/s25-extra-strength-collagen-peptides-stick-pack
+                  - img "S25 Extra Strength Collagen Peptides (Stick Pack)" [ref=e486]
+                - generic [ref=e488]:
+                  - strong [ref=e489]:
+                    - link "S25 Extra Strength Collagen Peptides (Stick Pack)" [ref=e490] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/s25-extra-strength-collagen-peptides-stick-pack
+                  - generic [ref=e491]: Collagen Peptides + Vitamin C + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/s25-extra-strength-collagen-peptides-stick-pack
+                - button "Add to bag $49" [ref=e495] [cursor=pointer]:
+                  - generic [ref=e496]:
+                    - text: Add to bag
+                    - generic [ref=e497]: $49
+        - generic [ref=e499]:
+          - heading "Anti-Aging Moisturizers" [level=3] [ref=e500]
+          - list [ref=e502]:
+            - listitem [ref=e503]:
+              - generic [ref=e504]:
+                - link [ref=e506] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/o36-anti-aging-triple-peptide-moisturizer
+                  - img "O36+ Anti-Aging Triple-Peptide Moisturizer" [ref=e507]
+                - generic [ref=e509]:
+                  - strong [ref=e510]:
+                    - link "O36+ Anti-Aging Triple-Peptide Moisturizer" [ref=e511] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/o36-anti-aging-triple-peptide-moisturizer
+                  - generic [ref=e512]: Peptides + Hyaluronic Acid + Fatty Acids + Meadowfoam
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/o36-anti-aging-triple-peptide-moisturizer
+                - button "Add to bag $88" [ref=e516] [cursor=pointer]:
+                  - generic [ref=e517]:
+                    - text: Add to bag
+                    - generic [ref=e518]: $88
+            - listitem [ref=e520]:
+              - generic [ref=e521]:
+                - link [ref=e523] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/c29-anti-aging-restoring-moisturizer
+                  - img "C29 Anti-Aging Restoring Moisturizer" [ref=e524]
+                - generic [ref=e526]:
+                  - strong [ref=e527]:
+                    - link "C29 Anti-Aging Restoring Moisturizer" [ref=e528] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/c29-anti-aging-restoring-moisturizer
+                  - generic [ref=e529]: Hyaluronic Acid + Aloe + Squalane + Peptides
+                  - generic [ref=e530]: Fragrance Free
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/c29-anti-aging-restoring-moisturizer
+                - button "Add to bag $58" [ref=e534] [cursor=pointer]:
+                  - generic [ref=e535]:
+                    - text: Add to bag
+                    - generic [ref=e536]: $58
+            - listitem [ref=e538]:
+              - generic [ref=e539]:
+                - link [ref=e541] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/d35-anti-aging-triple-peptide-moisturizer
+                  - img "D35+ Anti-Aging Triple-Peptide Moisturizer" [ref=e542]
+                - generic [ref=e544]:
+                  - strong [ref=e545]:
+                    - link "D35+ Anti-Aging Triple-Peptide Moisturizer" [ref=e546] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/d35-anti-aging-triple-peptide-moisturizer
+                  - generic [ref=e547]: Peptides + Hyaluronic Acid + Fatty Acids + Meadowfoam
+                  - generic [ref=e548]: Fragrance Free
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/d35-anti-aging-triple-peptide-moisturizer
+                - button "Add to bag $88" [ref=e552] [cursor=pointer]:
+                  - generic [ref=e553]:
+                    - text: Add to bag
+                    - generic [ref=e554]: $88
+            - listitem [ref=e556]:
+              - generic [ref=e557]:
+                - link [ref=e559] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/n33-anti-aging-pore-refining-gel-moisturizer
+                  - img "N33 Clarifying Oil-Free Moisturizer" [ref=e560]
+                - generic [ref=e562]:
+                  - strong [ref=e563]:
+                    - link "N33 Clarifying Oil-Free Moisturizer" [ref=e564] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/n33-anti-aging-pore-refining-gel-moisturizer
+                  - generic [ref=e565]: Vitamin E + Squalane + Hyaluronic Acid
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/n33-anti-aging-pore-refining-gel-moisturizer
+                - button "Add to bag $55" [ref=e569] [cursor=pointer]:
+                  - generic [ref=e570]:
+                    - text: Add to bag
+                    - generic [ref=e571]: $55
+            - listitem [ref=e573]:
+              - generic [ref=e574]:
+                - link [ref=e576] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/l28-anti-aging-restoring-moisturizer
+                  - img "L28 Anti-Aging Restoring Moisturizer" [ref=e577]
+                - generic [ref=e579]:
+                  - strong [ref=e580]:
+                    - link "L28 Anti-Aging Restoring Moisturizer" [ref=e581] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/l28-anti-aging-restoring-moisturizer
+                  - generic [ref=e582]: Hyaluronic Acid + Aloe + Squalane + Peptides
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/l28-anti-aging-restoring-moisturizer
+                - button "Add to bag $58" [ref=e586] [cursor=pointer]:
+                  - generic [ref=e587]:
+                    - text: Add to bag
+                    - generic [ref=e588]: $58
+            - listitem [ref=e590]:
+              - generic [ref=e591]:
+                - link [ref=e593] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/s27-anti-aging-hyaluronic-lift-moisturizer
+                  - img "S27+ Anti-Aging Hyaluronic Lift Moisturizer" [ref=e594]
+                - generic [ref=e596]:
+                  - strong [ref=e597]:
+                    - link "S27+ Anti-Aging Hyaluronic Lift Moisturizer" [ref=e598] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/s27-anti-aging-hyaluronic-lift-moisturizer
+                  - generic [ref=e599]: Hyaluronic Acid + Vitamin E + Shea + Sweet Iris
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/s27-anti-aging-hyaluronic-lift-moisturizer
+                - button "Add to bag $95" [ref=e603] [cursor=pointer]:
+                  - generic [ref=e604]:
+                    - text: Add to bag
+                    - generic [ref=e605]: $95
+        - generic [ref=e607]:
+          - heading "Lip treatments" [level=3] [ref=e608]
+          - list [ref=e610]:
+            - listitem [ref=e611]:
+              - generic [ref=e612]:
+                - link [ref=e614] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/k30-hydro-cushion-lip-oil
+                  - img "K30 Hydro-Cushion Lip Oil" [ref=e615]
+                - generic [ref=e617]:
+                  - strong [ref=e618]:
+                    - link "K30 Hydro-Cushion Lip Oil" [ref=e619] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/k30-hydro-cushion-lip-oil
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/k30-hydro-cushion-lip-oil
+                - button "Add to bag $36" [ref=e623] [cursor=pointer]:
+                  - generic [ref=e624]:
+                    - text: Add to bag
+                    - generic [ref=e625]: $36
+            - listitem [ref=e627]:
+              - generic [ref=e628]:
+                - link [ref=e630] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/hydro-lock-overnight-lip-mask
+                  - img "Hydro-Lock Overnight Lip Mask" [ref=e631]
+                - generic [ref=e633]:
+                  - strong [ref=e634]:
+                    - link "Hydro-Lock Overnight Lip Mask" [ref=e635] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/hydro-lock-overnight-lip-mask
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/hydro-lock-overnight-lip-mask
+                - button "Add to bag $36" [ref=e639] [cursor=pointer]:
+                  - generic [ref=e640]:
+                    - text: Add to bag
+                    - generic [ref=e641]: $36
+        - generic [ref=e643]:
+          - heading "Exfoliating treatment" [level=3] [ref=e644]
+          - list [ref=e646]:
+            - listitem [ref=e647]:
+              - generic [ref=e648]:
+                - link [ref=e650] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin/o39-exfoliating-face-polish
+                  - img "O39 Exfoliating Face Polish" [ref=e651]
+                - generic [ref=e653]:
+                  - strong [ref=e654]:
+                    - link "O39 Exfoliating Face Polish" [ref=e655] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/skin/o39-exfoliating-face-polish
+                  - generic [ref=e656]: Pineapple Enzyme + Lactic Acid + Jojoba
+                  - link:
+                    - /url: https://www.spoiledchild.com/skin/o39-exfoliating-face-polish
+                - button "Add to bag $39" [ref=e660] [cursor=pointer]:
+                  - generic [ref=e661]:
+                    - text: Add to bag
+                    - generic [ref=e662]: $39
+        - generic [ref=e664]:
+          - heading "Biotin" [level=3] [ref=e665]
+          - list [ref=e667]:
+            - listitem [ref=e668]:
+              - generic [ref=e669]:
+                - link [ref=e671] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/l30-biotin-multi-vitamin-hair-gummies
+                  - img "L30 Biotin & Multi-Vitamin Hair Gummies" [ref=e672]
+                - generic [ref=e674]:
+                  - strong [ref=e675]:
+                    - link "L30 Biotin & Multi-Vitamin Hair Gummies" [ref=e676] [cursor=pointer]:
+                      - /url: https://www.spoiledchild.com/l30-biotin-multi-vitamin-hair-gummies
+                  - generic [ref=e677]: Biotin + Folic Acid + Zinc + B5
+                  - link:
+                    - /url: https://www.spoiledchild.com/l30-biotin-multi-vitamin-hair-gummies
+                - button "Add to bag $49" [ref=e681] [cursor=pointer]:
+                  - generic [ref=e682]:
+                    - text: Add to bag
+                    - generic [ref=e683]: $49
+        - generic [ref=e685]:
+          - generic [ref=e686]:
+            - heading "Powered by AI, formulated by data" [level=3] [ref=e687]
+            - heading [level=4] [ref=e688]:
+              - text: Approved by dermatologists & experts
+              - superscript [ref=e689]: "*"
+            - generic [ref=e692]:
+              - generic [ref=e695]:
+                - link "Elizabeth Russeau, FNP-C, APRN":
+                  - /url: https://www.spoiledchild.com/influencer/50b0dc81-e218-4d52-9255-7826f5dd0c85
+                - generic [ref=e701]:
+                  - link [ref=e702] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/f38-anti-aging-retin-night-rewind-serum
+                    - img "F38+ Anti-Aging Retin + Night Rewind Serum" [ref=e703]
+                  - paragraph [ref=e704]: F38+ Anti-Aging Retin + Night Rewind Serum
+              - generic [ref=e707]:
+                - link "Dr. Gabriella Vasile":
+                  - /url: https://www.spoiledchild.com/influencer/6f37393a-a5fb-4e09-bebc-aab03a4c04d3
+                - generic [ref=e713]:
+                  - link [ref=e714] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/a35-anti-aging-glycolic-renewing-serum
+                    - img "A35 Anti-Aging Glycolic Renewing Serum" [ref=e715]
+                  - paragraph [ref=e716]: A35 Anti-Aging Glycolic Renewing Serum
+              - generic [ref=e719]:
+                - link "Nurse Liat, RN":
+                  - /url: https://www.spoiledchild.com/influencer/12934f7e-9931-47fb-a598-a86810b68929
+                - generic [ref=e725]:
+                  - link [ref=e726] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                    - img "S34 Clarifying Prebiotic Treatment" [ref=e727]
+                  - paragraph [ref=e728]: S34 Clarifying Prebiotic Treatment
+              - generic [ref=e731]:
+                - link "Dr. Rhonda Klein, MD, MPH, FAAD":
+                  - /url: https://www.spoiledchild.com/influencer/47231b1a-6643-4085-96f3-573083a8801c
+                - generic [ref=e737]:
+                  - link [ref=e738] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/g25-anti-aging-retin-night-rewind-serum
+                    - img "G25+ Anti-Aging Retin + Night Rewind Serum" [ref=e739]
+                  - paragraph [ref=e740]: G25+ Anti-Aging Retin + Night Rewind Serum
+              - generic [ref=e743]:
+                - link "Lindsey Zubritsky MD, FAAD":
+                  - /url: https://www.spoiledchild.com/influencer/0d901d83-f677-46a3-9df4-c9bc198e5589
+                - generic [ref=e749]:
+                  - link [ref=e750] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/m27-anti-aging-glycolic-renewing-serum
+                    - img "M27 Anti-Aging Glycolic Renewing Serum" [ref=e751]
+                  - paragraph [ref=e752]: M27 Anti-Aging Glycolic Renewing Serum
+              - generic [ref=e755]:
+                - link "Aliesh Pierce, LE":
+                  - /url: https://www.spoiledchild.com/influencer/fee4b3b6-1dc1-4c66-bc31-ea2a2db437e3
+                - generic [ref=e761]:
+                  - link [ref=e762] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s33-anti-aging-collagen-burst-serum
+                    - img "S33+ Anti-Aging Collagen Burst Serum" [ref=e763]
+                  - paragraph [ref=e764]: S33+ Anti-Aging Collagen Burst Serum
+              - generic [ref=e767]:
+                - link "Patricia San Pedro":
+                  - /url: https://www.spoiledchild.com/influencer/436a44d8-622c-4b41-a863-c4053571857b
+                - generic [ref=e773]:
+                  - link [ref=e774] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s27-anti-aging-hyaluronic-lift-moisturizer
+                    - img "S27+ Anti-Aging Hyaluronic Lift Moisturizer" [ref=e775]
+                  - paragraph [ref=e776]: S27+ Anti-Aging Hyaluronic Lift Moisturizer
+              - generic [ref=e779]:
+                - link "Marisa Garshick, MD, FAAD":
+                  - /url: https://www.spoiledchild.com/influencer/b6ffd950-7cc2-41e8-9d19-4e99f552c033
+                - generic [ref=e785]:
+                  - link [ref=e786] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/l28-anti-aging-restoring-moisturizer
+                    - img "L28 Anti-Aging Restoring Moisturizer" [ref=e787]
+                  - paragraph [ref=e788]: L28 Anti-Aging Restoring Moisturizer
+              - generic [ref=e791]:
+                - link "Cheri Frey, MD FAAD":
+                  - /url: https://www.spoiledchild.com/influencer/831c4ef7-b60b-446a-b47b-a15c349373f4
+                - generic [ref=e797]:
+                  - link [ref=e798] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/n33-anti-aging-pore-refining-gel-moisturizer
+                    - img "N33 Clarifying Oil-Free Moisturizer" [ref=e799]
+                  - paragraph [ref=e800]: N33 Clarifying Oil-Free Moisturizer
+              - generic [ref=e803]:
+                - link "Brit Lanier, Licensed Aesthetician":
+                  - /url: https://www.spoiledchild.com/influencer/6fcfbbb8-d6bb-4b0c-b143-d7e48268636b
+                - generic [ref=e809]:
+                  - link [ref=e810] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/d35-anti-aging-triple-peptide-moisturizer
+                    - img "D35+ Anti-Aging Triple-Peptide Moisturizer" [ref=e811]
+                  - paragraph [ref=e812]: D35+ Anti-Aging Triple-Peptide Moisturizer
+          - generic [ref=e813]:
+            - heading [level=4] [ref=e814]:
+              - text: Loved by the spoiled
+              - superscript [ref=e815]: "*"
+            - generic [ref=e818]:
+              - generic [ref=e821]:
+                - link "Taylor Kay":
+                  - /url: https://www.spoiledchild.com/influencer/c87e5821-fc0a-4d37-8367-dbd625a271ed
+                - generic [ref=e827]:
+                  - link [ref=e828] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                    - img "S34 Clarifying Prebiotic Treatment" [ref=e829]
+                  - paragraph [ref=e830]: S34 Clarifying Prebiotic Treatment
+              - generic [ref=e833]:
+                - link "Lily Sanchez":
+                  - /url: https://www.spoiledchild.com/influencer/915cb8ac-8d0a-4c46-9800-a110f86ab182
+                - generic [ref=e839]:
+                  - link [ref=e840] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/o36-anti-aging-triple-peptide-moisturizer
+                    - img "O36+ Anti-Aging Triple-Peptide Moisturizer" [ref=e841]
+                  - paragraph [ref=e842]: O36+ Anti-Aging Triple-Peptide Moisturizer
+              - generic [ref=e845]:
+                - link "Cara Lovello":
+                  - /url: https://www.spoiledchild.com/influencer/cd7c2f7c-7b6c-4f43-b209-fc3e49b59784
+                - generic [ref=e851]:
+                  - link [ref=e852] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/c29-anti-aging-restoring-moisturizer
+                    - img "C29 Anti-Aging Restoring Moisturizer" [ref=e853]
+                  - paragraph [ref=e854]: C29 Anti-Aging Restoring Moisturizer
+              - generic [ref=e857]:
+                - link "Valerie Ortega":
+                  - /url: https://www.spoiledchild.com/influencer/3790967b-a577-4ce6-b4f1-cf988992d77b
+                - generic [ref=e863]:
+                  - link [ref=e864] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/d35-anti-aging-triple-peptide-moisturizer
+                    - img "D35+ Anti-Aging Triple-Peptide Moisturizer" [ref=e865]
+                  - paragraph [ref=e866]: D35+ Anti-Aging Triple-Peptide Moisturizer
+              - generic [ref=e869]:
+                - link "Chelsea Edward":
+                  - /url: https://www.spoiledchild.com/influencer/1f9b1bd6-fca5-4307-89f3-b4c4818581cf
+                - generic [ref=e875]:
+                  - link [ref=e876] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/l28-anti-aging-restoring-moisturizer
+                    - img "L28 Anti-Aging Restoring Moisturizer" [ref=e877]
+                  - paragraph [ref=e878]: L28 Anti-Aging Restoring Moisturizer
+              - generic [ref=e881]:
+                - link "Alexandra Huynh":
+                  - /url: https://www.spoiledchild.com/influencer/6ac28279-11c9-4b7e-8f2a-17200b2a3586
+                - generic [ref=e887]:
+                  - link [ref=e888] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                    - img "S34 Clarifying Prebiotic Treatment" [ref=e889]
+                  - paragraph [ref=e890]: S34 Clarifying Prebiotic Treatment
+              - generic [ref=e893]:
+                - link "Kirsten Jordan":
+                  - /url: https://www.spoiledchild.com/influencer/e572812e-7a7d-46d6-86ff-babd73875028
+                - generic [ref=e899]:
+                  - link [ref=e900] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s27-anti-aging-hyaluronic-lift-moisturizer
+                    - img "S27+ Anti-Aging Hyaluronic Lift Moisturizer" [ref=e901]
+                  - paragraph [ref=e902]: S27+ Anti-Aging Hyaluronic Lift Moisturizer
+              - generic [ref=e905]:
+                - link "Kaylyn Noonan":
+                  - /url: https://www.spoiledchild.com/influencer/f4a0e3b5-d1e8-4177-8f57-27cb38b60ffc
+                - generic [ref=e911]:
+                  - link [ref=e912] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/f38-anti-aging-retin-night-rewind-serum
+                    - img "F38+ Anti-Aging Retin + Night Rewind Serum" [ref=e913]
+                  - paragraph [ref=e914]: F38+ Anti-Aging Retin + Night Rewind Serum
+              - generic [ref=e917]:
+                - link "Jenn Rodriguez":
+                  - /url: https://www.spoiledchild.com/influencer/fa4cf831-e114-45ed-8279-7f83921cab93
+                - generic [ref=e923]:
+                  - link [ref=e924] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s33-anti-aging-collagen-burst-serum
+                    - img "S33+ Anti-Aging Collagen Burst Serum" [ref=e925]
+                  - paragraph [ref=e926]: S33+ Anti-Aging Collagen Burst Serum
+              - generic [ref=e929]:
+                - link "Pamela Ross":
+                  - /url: https://www.spoiledchild.com/influencer/84550ee4-ebbd-4399-824d-5ef67e4dda8c
+                - generic [ref=e935]:
+                  - link [ref=e936] [cursor=pointer]:
+                    - /url: https://www.spoiledchild.com/skin/s34-anti-aging-clarifying-serum
+                    - img "S34 Clarifying Prebiotic Treatment" [ref=e937]
+                  - paragraph [ref=e938]: S34 Clarifying Prebiotic Treatment
+            - generic [ref=e940]:
+              - superscript [ref=e941]: "*"
+              - text: Compensated to evaluate our products.
+        - generic [ref=e942]:
+          - generic [ref=e943]:
+            - heading "Explore skin concerns" [level=3] [ref=e944]
+            - list [ref=e945]:
+              - listitem [ref=e946]:
+                - link "Blemishes" [ref=e947] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin-concerns-blemishes
+              - listitem [ref=e948]:
+                - link "Dullness" [ref=e949] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin-concerns-dullness
+              - listitem [ref=e950]:
+                - link "Wrinkles" [ref=e951] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin-concerns-wrinkles
+              - listitem [ref=e952]:
+                - link "Firmness" [ref=e953] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin-concerns-firmness
+          - generic [ref=e954]:
+            - heading "Explore hair concerns" [level=3] [ref=e955]
+            - list [ref=e956]:
+              - listitem [ref=e957]:
+                - link "Strength" [ref=e958] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair-concerns-strength
+              - listitem [ref=e959]:
+                - link "Thinning" [ref=e960] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair-concerns-thinning
+              - listitem [ref=e961]:
+                - link "Damage" [ref=e962] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair-concerns-damage
+              - listitem [ref=e963]:
+                - link "Dullness" [ref=e964] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair-concerns-dullness
+              - listitem [ref=e965]:
+                - link "Frizz" [ref=e966] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair-concerns-frizz
+              - listitem [ref=e967]:
+                - link "Split Ends" [ref=e968] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair-concerns-split-ends
+        - generic [ref=e969]: Finding the right skincare routine is hard. Vitamin C serum, retinol serum, moisturizers for dry skin, moisturizers for dull skin - where do you even begin? Let SpoiledBrain do the work for you instead. Say goodbye to enlarged pores and fine lines, and say hello to your customized age-control sequence - finally skincare products for you & only you.
+    - contentinfo [ref=e970]:
+      - navigation [ref=e971]:
+        - list [ref=e972]:
+          - listitem [ref=e973]:
+            - link "SpoiledChild World" [ref=e974] [cursor=pointer]:
+              - /url: /who-we-are
+          - listitem [ref=e975]:
+            - link "Help & FAQs" [ref=e976] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e977]:
+            - link "Sustainability" [ref=e978] [cursor=pointer]:
+              - /url: /sustainability
+          - listitem [ref=e979]:
+            - link "Returns & Exchanges" [ref=e980] [cursor=pointer]:
+              - /url: /return
+          - listitem [ref=e981]:
+            - link "Privacy Policy" [ref=e982] [cursor=pointer]:
+              - /url: /privacy-policy
+          - listitem [ref=e983]:
+            - link "Log-in" [ref=e984] [cursor=pointer]:
+              - /url: /customer/account/login/
+          - listitem [ref=e985]:
+            - link "Terms & Conditions" [ref=e986] [cursor=pointer]:
+              - /url: /terms-and-conditions
+            - list [ref=e987]:
+              - listitem [ref=e988]:
+                - link "Do not sell my information" [ref=e989] [cursor=pointer]:
+                  - /url: /privacy-policy/ccpa_notice
+          - listitem [ref=e990]:
+            - link "Contact Us" [ref=e991] [cursor=pointer]:
+              - /url: /contact
+            - list [ref=e992]:
+              - listitem [ref=e993]:
+                - link "The Guide" [ref=e994] [cursor=pointer]:
+                  - /url: /the-guide?loc=footer
+      - generic [ref=e996]:
+        - generic [ref=e997]:
+          - text: MATURE IN
+          - generic [ref=e998]: REVERSE
+        - generic [ref=e999]:
+          - text: 
+          - generic [ref=e1000]:
+            - text: Click
+            - strong [ref=e1001]: Join
+            - text: for exclusive updates & offers
+        - generic [ref=e1002]:
+          - textbox "Your Email" [ref=e1003]
+          - button "Join" [ref=e1004] [cursor=pointer]
+        - paragraph [ref=e1005]:
+          - generic [ref=e1006]: By clicking join, you agree to our
+          - link "Terms" [ref=e1007] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/terms-and-conditions
+          - generic [ref=e1008]: and
+          - link "Privacy" [ref=e1009] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/privacy-policy
+      - navigation [ref=e1010]:
+        - list [ref=e1011]:
+          - listitem [ref=e1012]:
+            - img "/i/g/ig.png" [ref=e1013]
+            - link "instagram" [ref=e1014] [cursor=pointer]:
+              - /url: https://www.instagram.com/spoiledchildworld/
+          - listitem [ref=e1015]:
+            - img "/f/b/fb_bigger_centered.png" [ref=e1016]
+            - link "facebook" [ref=e1017] [cursor=pointer]:
+              - /url: https://www.facebook.com/spoiledchildworld
+      - generic [ref=e1018]: © 2026 Oddity Global Ltd. d/b/a SPOILEDCHILD. ALL RIGHTS RESERVED
+  - textbox [ref=e1020]

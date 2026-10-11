@@ -1,0 +1,182 @@
+- generic [active] [ref=f35e1]:
+  - generic [ref=f35e2]:
+    - banner [ref=f35e3]:
+      - generic [ref=f35e4]:
+        - generic [ref=f35e5] [cursor=pointer]
+        - link "store logo" [ref=f35e6] [cursor=pointer]:
+          - /url: https://www.spoiledchild.com/
+        - generic [ref=f35e8] [cursor=pointer]
+        - generic [ref=f35e9]:
+          - navigation [ref=f35e11]:
+            - list [ref=f35e12]:
+              - listitem [ref=f35e13]:
+                - link "Hair" [ref=f35e14] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/hair
+              - listitem [ref=f35e15]:
+                - link "Skin" [ref=f35e16] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/skin
+              - listitem [ref=f35e17]:
+                - link "Wellness" [ref=f35e18] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/shop-all
+          - navigation [ref=f35e20]:
+            - list [ref=f35e21]:
+              - listitem [ref=f35e22]:
+                - link " Ask SpoiledBrain" [ref=f35e23] [cursor=pointer]:
+                  - /url: /spoiled-brain?type=sc-mixed&v=sb1&fnl=ty&version=1
+        - link "" [ref=f35e25] [cursor=pointer]:
+          - /url: https://www.spoiledchild.com/customer/account/login/
+        - generic [ref=f35e26]:
+          - link "My Cart" [ref=f35e27] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - text:  ‒
+    - generic [ref=f35e29]:
+      - generic [ref=f35e30]:
+        - generic [ref=f35e31] [cursor=pointer]
+        - link:
+          - /url: https://www.spoiledchild.com/
+      - generic [ref=f35e32]:
+        - generic [ref=f35e33]:
+          - generic [ref=f35e34]:
+            - generic [ref=f35e35]: Not sure what you need?
+            - generic [ref=f35e36]: Let SpoiledBrain find yourperfect hair and skin products.
+          - generic [ref=f35e37]: 
+        - link "Ask SpoiledBrain" [ref=f35e39] [cursor=pointer]:
+          - /url: /spoiled-brain?type=sc-mixed&v=sb1&fnl=ty&version=1
+      - generic [ref=f35e40]:
+        - generic [ref=f35e41]:
+          - link "Shop E27 Magic Collagen" [ref=f35e42] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen/
+          - img "Shop E27 Magic Collagen" [ref=f35e43]
+        - generic [ref=f35e44]:
+          - link "Shop N29 Magnesium Liquid" [ref=f35e45] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/n29-daily-stress-relief-magnesium-liquid/
+          - img "Shop N29 Magnesium Liquid" [ref=f35e46]
+        - generic [ref=f35e47]:
+          - link "Shop Hair" [ref=f35e48] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/hair
+          - generic [ref=f35e49]:
+            - link [ref=f35e50] [cursor=pointer]:
+              - /url: https://www.spoiledchild.com/hair
+            - img "Hair" [ref=f35e51]
+        - generic [ref=f35e52]:
+          - link "Shop Skin" [ref=f35e53] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/skin
+          - generic [ref=f35e54]:
+            - link [ref=f35e55] [cursor=pointer]:
+              - /url: https://www.spoiledchild.com/skin
+            - img "Skin" [ref=f35e56]
+        - generic [ref=f35e57]:
+          - link "Shop All" [ref=f35e58] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/shop-all/
+          - img "Skin" [ref=f35e59]
+      - navigation [ref=f35e60]:
+        - list [ref=f35e61]:
+          - listitem [ref=f35e62]:
+            - link "The Guide" [ref=f35e63] [cursor=pointer]:
+              - /url: /the-guide?loc=hamburger
+          - listitem [ref=f35e64]:
+            - link "Shop Lifestyle" [ref=f35e65] [cursor=pointer]:
+              - /url: https://www.spoiledchild.com/lifestyle
+      - list [ref=f35e66]:
+        - listitem [ref=f35e67]:
+          - generic [ref=f35e68]:
+            - text: Shop by Hair Concern
+            - generic [ref=f35e69] [cursor=pointer]
+        - listitem [ref=f35e70]:
+          - generic [ref=f35e71]:
+            - text: Shop by Skin Concern
+            - generic [ref=f35e72] [cursor=pointer]
+        - listitem [ref=f35e73]:
+          - link "Sign In to My Account" [ref=f35e74] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/ordergroove/subscription/index/
+        - listitem [ref=f35e75]:
+          - generic [ref=f35e76]:
+            - text: Get Help
+            - generic [ref=f35e77] [cursor=pointer]
+    - generic [ref=f35e78]:
+      - generic [ref=f35e79] [cursor=pointer]
+      - combobox "Search for products, categories, skin & hair concerns, content" [ref=f35e83]
+      - generic [ref=f35e84]:
+        - paragraph [ref=f35e85]: Popular Searches
+        - generic [ref=f35e86]:
+          - generic [ref=f35e87] [cursor=pointer]: Anti-Aging
+          - generic [ref=f35e89] [cursor=pointer]: Hair Loss
+          - generic [ref=f35e91] [cursor=pointer]: Collagen
+          - generic [ref=f35e93] [cursor=pointer]: Wrinkles
+          - generic [ref=f35e95] [cursor=pointer]: Hair Growth
+          - generic [ref=f35e97] [cursor=pointer]: Damaged Hair
+          - generic [ref=f35e99] [cursor=pointer]: Brittle Nails
+      - generic [ref=f35e101]:
+        - text: 
+        - heading "Find exactly what you need" [level=4] [ref=f35e102]
+        - generic [ref=f35e103]: SpoiledBrain will identify the exact products for you based on your needs.
+        - link "Just Ask SpoiledBrain" [ref=f35e104] [cursor=pointer]:
+          - /url: /spoiled-brain?type=sc-mixed&v=sb1&fnl=ty&version=1
+      - generic [ref=f35e106]:
+        - paragraph [ref=f35e107]: Popular Products
+        - generic [ref=f35e108]:
+          - link [ref=f35e110] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen
+            - img "E27 Extra Strength Liquid Collagen" [ref=f35e112]
+            - paragraph [ref=f35e116]: E27 Extra Strength Liquid Collagen
+          - link [ref=f35e118] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/e27-extra-strength-liquid-collagen-pineapple
+            - img "E27 Extra Strength Liquid Collagen" [ref=f35e120]
+            - paragraph [ref=f35e124]: E27 Extra Strength Liquid Collagen
+          - link [ref=f35e126] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/a22-biotin-boost-hair-scalp-serum
+            - img "A22 Biotin Boost Hair + Scalp Serum" [ref=f35e128]
+            - paragraph [ref=f35e132]: A22 Biotin Boost Hair + Scalp Serum
+          - link [ref=f35e134] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/v30-max-effective-multivitamin-liquid
+            - img "V30 Max Effective Multivitamin Liquid" [ref=f35e136]
+            - paragraph [ref=f35e140]: V30 Max Effective Multivitamin Liquid
+          - link [ref=f35e142] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/n29-daily-stress-relief-magnesium-liquid
+            - img "N29 Daily Stress Relief Magnesium Liquid" [ref=f35e144]
+            - paragraph [ref=f35e148]: N29 Daily Stress Relief Magnesium Liquid
+          - link [ref=f35e150] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/m28-microsculpt-firming-plumping-cream
+            - img "M28 MicroSculpt Firming & Plumping Cream" [ref=f35e152]
+            - paragraph [ref=f35e156]: M28 MicroSculpt Firming & Plumping Cream
+          - link [ref=f35e158] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/t31-vitamin-c-brightening-eye-cream
+            - img "T31 Vitamin C Brightening Eye Cream" [ref=f35e160]
+            - paragraph [ref=f35e164]: T31 Vitamin C Brightening Eye Cream
+          - link [ref=f35e166] [cursor=pointer]:
+            - /url: https://www.spoiledchild.com/s33-anti-aging-collagen-burst-serum
+            - img "S33+ Anti-Aging Collagen Burst Serum" [ref=f35e168]
+            - paragraph [ref=f35e172]: S33+ Anti-Aging Collagen Burst Serum
+    - main [ref=f35e173]:
+      - generic [ref=f35e175]:
+        - img "SC capsules" [ref=f35e178]
+        - generic [ref=f35e179]:
+          - generic [ref=f35e182]:
+            - group [ref=f35e183]:
+              - heading "Login" [level=1] [ref=f35e184]
+              - generic [ref=f35e185]: Sign in with your email
+              - generic [ref=f35e187]:
+                - textbox [ref=f35e188]
+                - generic: Email address
+            - generic [ref=f35e189]:
+              - button "Continue" [ref=f35e191] [cursor=pointer]
+              - generic [ref=f35e194]:
+                - text: New?
+                - link "Sign up" [ref=f35e195] [cursor=pointer]:
+                  - /url: https://www.spoiledchild.com/customer/account/create/
+          - generic [ref=f35e196]:
+            - generic [ref=f35e197]: Unlock exclusive features
+            - generic [ref=f35e198]:
+              - generic [ref=f35e199]:
+                - generic [ref=f35e200]: 
+                - generic [ref=f35e201]: Track your orders
+              - generic [ref=f35e202]:
+                - generic [ref=f35e203]: 
+                - generic [ref=f35e204]: Manage your subscriptions
+              - generic [ref=f35e206]:
+                - generic [ref=f35e207]: 
+                - generic [ref=f35e208]: Shop custom bundles for you
+              - generic [ref=f35e209]:
+                - generic [ref=f35e210]: 
+                - generic [ref=f35e211]: Access limited-time offers
+  - textbox [ref=f35e212]

@@ -1,0 +1,15 @@
+{
+  "name": "spoiledchild-playwright-pom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright JavaScript automation for SpoiledChild",
+  "scripts": {
+    "test": "node ./node_modules/playwright/cli.js test",
+    "test:headed": "node ./node_modules/playwright/cli.js test --headed",
+    "test:install": "node ./node_modules/playwright/cli.js install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "dotenv": "^16.4.7"
+  }
+}
